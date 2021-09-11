@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://www.linkedin.com/in/vilmaravaldevino/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VilmaraValdevino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmaraValdevino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VilmaraValdevino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmaraValdevino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br> 
  <img align="center" alt="Vilmara-MsSqlServer" height="30" width="200" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
